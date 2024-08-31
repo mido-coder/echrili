@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "expo-cli": "^6.3.10",
+    "expo-image-picker": "~14.1.1"
+  }
+}
